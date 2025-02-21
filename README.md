@@ -1,10 +1,10 @@
-**Hi there! 👋 Welcome to My GitHub Profile**
+**Hi there! 👋 Welcome to My GitHub Profile.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **_🌟 About Me_**
 
-I'm Muffaddal, a 16-year-old programming enthusiast, eager to enhance my skills and contribute to meaningful projects. I enjoy learning new technologies, solving coding challenges, and improving my development abilities.
+"I'm Muffaddal, a 16-year-old programming enthusiast, eager to enhance my skills and contribute to meaningful projects. I enjoy learning new technologies, solving coding challenges, and improving my development abilities."
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,20 +12,13 @@ I'm Muffaddal, a 16-year-old programming enthusiast, eager to enhance my skills 
 
 console.log("Hello, World! 🚀");
 
-💻 Languages: JavaScript | CSS | HTML | Bootstrap🛠 Tools: VS Code ![code-stable](https://github.com/user-attachments/assets/e19f3a42-426c-4519-a5cb-a8e55c9f70ce)
-| GitHub📚 Currently Learning: JavaScript (Deep Dive!)
+💻 Languages: JavaScript <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">     |    CSS <img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">     |    HTML <img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">     |    Bootstrap <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+
+Tools: VS Code <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebRBzJhW1BDg-1D9keKRb3e0GXVBUBI1ORA&s"> | GitHub <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpAgjyTmbZqNifhkIsHXtr3clSdPvxQ5kIg&s">
+
+📚 Currently Learning: JavaScript  <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">(Deep Dive!)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**_📊 GitHub Stats_**
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**_🔄 Dynamic Badges & Animations_**
-
-![giphy](https://github.com/user-attachments/assets/9adf35f9-6f8a-4c31-b6d4-6077c9dced7f)
-![giphy](https://github.com/user-attachments/assets/4b7e1379-9c21-4160-ab9d-99c964d68ee4)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **_📫 Connect with Me_**
 
@@ -34,3 +27,8 @@ GitHub: muffaddalmustafa
 Email: your.email@example.com
 
 **Thanks for checking out my profile! 😊 Happy coding! 🚀**
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![giphy](https://github.com/user-attachments/assets/c312942e-ddc5-414f-99c5-3f8c8869c1d9)
+
