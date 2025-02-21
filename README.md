@@ -7,7 +7,7 @@ I'm Muffaddal, a 16-year-old programming enthusiast, eager to enhance my skills 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔥 Tech Stack & Tools
-<canvas id="canvas" width="300" height="300">console.log("Hello, World! 🚀");</canvas>
+console.log("Hello, World! 🚀");
 
 💻 Languages: JavaScript | CSS | HTML | Bootstrap🛠 Tools: VS Code | GitHub📚 Currently Learning: JavaScript (Deep Dive!)
 
