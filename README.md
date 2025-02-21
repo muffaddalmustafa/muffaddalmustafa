@@ -18,7 +18,7 @@ I'm Muffaddal, a 16-year-old programming enthusiast, eager to enhance my skills 
 
 📫 Connect with Me
 
-GitHub: yourusername
+GitHub: @muffaddalmustafa
 
 Email: your.email@example.com
 
