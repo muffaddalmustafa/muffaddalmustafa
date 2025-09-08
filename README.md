@@ -26,7 +26,7 @@ Tools: VS Code <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?
 **GitHub <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpAgjyTmbZqNifhkIsHXtr3clSdPvxQ5kIg&s">**
 : muffaddalmustafa
 
-**📧 Email**: your.email@example.com
+**📧 Email**: muffaddalmusfafa@gmail.com
 
 **Thanks for checking out my profile! 😊 Happy coding! 🚀**
 
